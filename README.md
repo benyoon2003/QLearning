@@ -9,3 +9,6 @@ conda create -n newEnv python=3.11
 conda activate newEnv
 
 pip install -r requirements.txt
+
+This runs the actual Q learning training:
+python Q_learning.py
